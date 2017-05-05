@@ -1,0 +1,31 @@
+h1{
+  font-style: comic;
+  text-align: center;
+  text-shadow: 4px 2px black;
+  padding-top: 100px;
+}
+container{
+  width: 80%;
+  margin: 10px auto;
+}
+.what{
+  width: 1290px;
+  min-height: 300px;
+  background-color: #d38e05;
+  padding-bottom: 10px;
+  padding-right: 400px;
+}
+.main{
+  background-size: auto;
+  padding-right: 320px;
+  width: 1350px;
+  height: auto;
+  background-color: #d0d8db;
+}
+.main1{
+  height: auto;
+  background-color:#81c47e;
+}
+label{
+  font-size: 40px;
+}
