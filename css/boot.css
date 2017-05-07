@@ -1,31 +1,42 @@
-h1{
-  font-style: comic;
-  text-align: center;
-  text-shadow: 4px 2px black;
-  padding-top: 100px;
-}
 container{
   width: 80%;
   margin: 10px auto;
 }
 .what{
-  width: 1290px;
-  min-height: 300px;
-  background-color: #d38e05;
+  font-style: serif italic;
+  text-align: center;
+  color: white;
+  width: 1300px;
+  height: 600px;
+  background-image: url("/home/dennis/Desktop/pingpong/img/ac_syndicate-wallpaper-3840x2160.jpg");
+  background-size: 1300px 600px;
   padding-bottom: 10px;
   padding-right: 400px;
 }
 .main{
-  background-size: auto;
-  padding-right: 320px;
-  width: 1350px;
-  height: auto;
-  background-color: #d0d8db;
+  color: green;
+  padding-right: 300px;
+  width: 1315px;
+  height: 563px;
+  background-image: url("/home/dennis/Desktop/pingpong/img/giphy.gif");
+  background-size: 1315px 563px;
+
 }
 .main1{
-  height: auto;
-  background-color:#81c47e;
+  height: 542px;
+  background-image: url("/home/dennis/Desktop/pingpong/img/254724780805 (1)-1.jpg");
+  background-size: cover;
+  background-size: 305px 542px;
+  text-decoration-color: blue;
 }
+
 label{
   font-size: 40px;
+}
+.answers{
+  background-image: url("/home/dennis/Desktop/pingpong/img/75239_310847778985395_100001805254657_717352_917946010_n.jpg");
+  background-size: contain;
+  font-size: 35px;
+  font-style: serif italic;
+  color: blue;
 }
