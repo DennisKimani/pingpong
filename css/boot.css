@@ -35,7 +35,7 @@ label{
 }
 .answers{
   background-image: url("https://media0.giphy.com/media/cAgj5qHLp3qhy/giphy.gif");
-  background-size: contain;
+  background-size: 1300px 600px;
   font-size: 45px;
   font-style: comic italic;
   color: blue;
