@@ -1,42 +1,51 @@
-container{
-  width: 80%;
-  margin: 10px auto;
+
+h1{
+  font-style: tahoma italic;
+  font-size: 60px;
+  color: green;
+  padding-left: 500px;
+  padding-top: 20px;
+}
+p7{
+  font-style: tahoma italic;
+  font-size: 30px;
+  color: green;
+  padding-left: 370px;
+  padding-top: 40px;
+}
+h4{
+  font-size: 45px;
+  padding-left: 505px;
+  color: green;
 }
 .what{
-  font-style: serif italic;
-  text-align: center;
-  color: white;
   width: 1300px;
-  height: 600px;
+  height: 650px;
   background-image: url("http://www.wallpaperscharlie.com/wp-content/uploads/2016/06/cool-hd-wallpapers-for-girls-1.jpg");
-  background-size: 1300px 600px;
-  padding-bottom: 10px;
+  background-size: 1300px 650px;
   padding-right: 400px;
+  margin-top: 0px;
 }
 .main{
   color: green;
   padding-right: 300px;
   width: 1315px;
-  height: 563px;
-  background-image: url("https://media4.giphy.com/media/EfZGQab74KZGM/giphy.gif");
-  background-size: 1315px 563px;
-
+  height: auto;
+  background-color: #f19d0b;
+  background-size: 1315px;
 }
 .main1{
-  height: 542px;
-  background-image: url("https://images-na.ssl-images-amazon.com/images/M/MV5BYjdlYjM2NGItZTY0Mi00NmVjLWIwMTAtNTBiZTg4NTc3NGJjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY268_CR76,0,182,268_AL_.jpg");
-  background-size: cover;
-  background-size: 305px 542px;
-  text-decoration-color: blue;
+  height: 430px;
+  background-color: #f19d0b;
+  box-shadow: 4px 4px 4px 4px;
+  padding-left: 10px
 }
-
 label{
   font-size: 40px;
 }
 .answers{
-  background-image: url("https://media0.giphy.com/media/cAgj5qHLp3qhy/giphy.gif");
-  background-size: 1300px 600px;
-  font-size: 45px;
-  font-style: comic italic;
-  color: blue;
+  padding-left: 20px;
+  font-size: 30px;
+  font-style: comic;
+  color: green;
 }
